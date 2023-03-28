@@ -1,0 +1,25 @@
+ctrl + s # save command
+ctrl + z #undo command
+ctrl + a # highlight all
+ctrl + c #copy command
+new-item test.txt # create file in powershell
+
+#steps 
+untracked file --add-- commit -- push
+git commit --help
+git commit - m "message"
+
+git branch -M main
+
+git config --global unit.defaultbranch main
+
+git checkout -b test
+
+add something new
+
+git push -u origin main
+git push -u origin test
+
+git push origin
+
+
